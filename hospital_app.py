@@ -12,7 +12,7 @@ scaler = bundle["scaler"]
 feature = bundle["feature"]
 cols_to_scale = bundle["cols_to_scale"]
 
-dept_map_inv = bundle["dept_map_inv"]
+dept_Map_inv = bundle["dept_Map_inv"]
 
 gender_map = bundle["gender_map"]
 tempt_map = bundle["tempt_map"]
