@@ -15,7 +15,7 @@ cols_to_scale = bundle["cols_to_scale"]
 dept_Map_inv = bundle["dept_Map_inv"]
 
 gender_map = bundle["gender_map"]
-tempt_map = bundle["tempt_map"]
+temp_map = bundle["tempt_map"]
 hr_map = bundle["hr_map"]
 dur_map = bundle["dur_map"]
 cc_map = bundle["cc_map"]
