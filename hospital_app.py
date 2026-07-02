@@ -86,7 +86,7 @@ age = st.number_input("Age" , min_value=1, max_value=120, value=30)
 gender = st.selectbox("Gender", ["Female", "Male"])
 
 st.header("Symptoms")
-col1, col2 = st.clumns(2)
+col1, col2 = st.columns(2)
 
 
 with col1:
