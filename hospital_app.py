@@ -96,7 +96,7 @@ with col1:
           chest_Pain = st.checkbox("Chest Pain")
           stomach_pain = st.checkbox("Stomach Pain")
           
-F
+
 
 
 
