@@ -9,7 +9,7 @@ with open("hospital_model.pkl", "rb") as f:
 model = bundle["model"]
 scaler = bundle["scaler"]
 
-feature = bundle"feature"]
+feature = bundle["feature"]
 cols_to_scale = bundle["cols_to_scale"]
 
 dept_map_inv = bundle["dept_map_inv"]
