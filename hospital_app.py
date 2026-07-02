@@ -233,12 +233,3 @@ if predict_button:
     )
 
 
-
-
-
-
-
-
-
-
-
